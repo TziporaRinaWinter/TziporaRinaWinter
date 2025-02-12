@@ -1,6 +1,6 @@
 ### 👋🏻 Hi, I'm Tzipora Rina Winter (@TziporaRinaWinter)
 
-**Passionate Software Engineer | Tech Enthusiast | Lifelong Learner**
+**Passionate Software Engineer | Tech Enthusiast | Loves to Learn**
 
 ## 🚀 About Me
 I'm graduated with High Honors Software Engineering. A talented developer with intellectual curiosity.  
@@ -61,8 +61,8 @@ Docker: Beginner | Git: Proficient | Postman: Proficient | Swagger: Proficient |
 
 
 ## 🏆 Achievements
-- [Achievement 1]
-- [Achievement 2]
+- [---]
+- [---]
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TziporaRinaWinter&show_icons=true&hide_title=true&count_private=true&theme=radical)
@@ -71,5 +71,7 @@ Docker: Beginner | Git: Proficient | Postman: Proficient | Swagger: Proficient |
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TziporaRinaWinter&layout=compact&theme=radical)
 
 ## ✨ Featured Projects
-- [Project 1](link-to-project)
-- [Project 2](link-to-project)
+- [Angular Project](------)
+- [-----](------)
+- [-----](------)
+- [-----](------)
