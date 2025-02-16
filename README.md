@@ -11,32 +11,47 @@ Seeking a development position where I can leverage my skills and create innovat
 ## 🖥️ Skills & Tools
 
 #### 💻 Programming Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
-![C](https://img.shields.io/badge/C-A8B400?style=flat-square&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> <!-- C# -->
+&nbsp;&nbsp;
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <!-- Java -->
+&nbsp;&nbsp;
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <!-- Python -->
+&nbsp;&nbsp;
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <!-- TypeScript -->
+&nbsp;&nbsp;
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <!-- JavaScript -->
+&nbsp;&nbsp;
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> <!-- C -->
+&nbsp;&nbsp;
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> <!-- C++ -->
+&nbsp;&nbsp;
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <!-- HTML5 -->
+&nbsp;&nbsp;
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <!-- CSS3 -->
+&nbsp;&nbsp;
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> <!-- PostgreSQL -->
+&nbsp;&nbsp;
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> <!-- MongoDB -->
 
 <details>
 <summary>Skill Level</summary>
-C#: Proficient | Java: Proficient | Python: Proficient | TypeScript: Proficient | JavaScript: Proficient | C: Intermediate | C++: Intermediate | HTML5: Proficient | CSS3: Proficient | SQL: Intermediate
+C#: Proficient | Java: Proficient | Python: Proficient | TypeScript: Proficient | JavaScript: Proficient | C: Intermediate | C++: Intermediate | HTML5: Proficient | CSS3: Proficient | SQL: Intermediate | MongoDB: Intermediate
 </details>
 
-
 #### 💻 Frameworks & Libraries
-![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=.net&logoColor=white) 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) 
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) 
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![QT5](https://img.shields.io/badge/QT5-41CD52?style=flat-square&logo=qt&logoColor=white)
+<img height="50" width="50" src="https://cdn.simpleicons.org/.net/512BD4" /> <!-- .NET -->
+&nbsp;&nbsp;
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" /> <!-- Angular -->
+&nbsp;&nbsp;
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <!-- React -->
+&nbsp;&nbsp;
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" /> <!-- Hibernate -->
+&nbsp;&nbsp;
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" /> <!-- MUI -->
+&nbsp;&nbsp;
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> <!-- Bootstrap -->
+&nbsp;&nbsp;
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" /> <!-- Qt -->
 
 <details>
 <summary>Skill Level</summary>
@@ -44,26 +59,36 @@ C#: Proficient | Java: Proficient | Python: Proficient | TypeScript: Proficient 
 </details>
 
 #### 🛠️ Tools & Platforms
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) 
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) 
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white) 
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) 
-![NetBeans](https://img.shields.io/badge/NetBeans-009C8C?style=flat-square&logo=apache-netbeans&logoColor=white) 
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> <!-- Docker -->
+&nbsp;&nbsp;
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <!-- Git -->
+&nbsp;&nbsp;
+<img height="50" width="50" src="https://cdn.simpleicons.org/postman/FF6C37" /> <!-- Postman -->
+&nbsp;&nbsp;
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" /> <!-- Swagger -->
+&nbsp;&nbsp;
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /> <!-- Visual Studio -->
+&nbsp;&nbsp;
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" /> <!-- Jupyter -->
+&nbsp;&nbsp;
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" /> <!-- Anaconda -->
+&nbsp;&nbsp;
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" /> <!-- PyCharm -->
+&nbsp;&nbsp;
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/idea/idea-original.svg" /> <!-- IntelliJ IDEA -->
+&nbsp;&nbsp;
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" /> <!-- Eclipse -->
 
 <details>
 <summary>Skill Level</summary>
-Docker: Beginner | Git: Proficient | Postman: Proficient | Swagger: Proficient | Visual Studio: Proficient | Jupyter: Proficient | Anaconda: Intermediate | PyCharm: Proficient | NetBeans: Intermediate | Eclipse: Intermediate
+Docker: Beginner | Git: Proficient | Postman: Proficient | Swagger: Proficient | Visual Studio: Proficient | Jupyter: Proficient | Anaconda: Intermediate | PyCharm: Proficient | IntelliJ IDEA: Intermediate | Eclipse: Intermediate
 </details>
 
 
-## 🏆 Achievements
+
+<!-- ## 🏆 Achievements
 - [---]
-- [---]
+- [---] -->
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TziporaRinaWinter&show_icons=true&hide_title=true&count_private=true&theme=radical)
