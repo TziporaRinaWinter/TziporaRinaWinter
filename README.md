@@ -93,7 +93,6 @@ Docker: Beginner | Git: Proficient | Postman: Proficient | Swagger: Proficient |
 
 -->
 ## 🏆 Achievements
-![GitHub Achievements](https://github-readme-achievements.vercel.app/api?username=TziporaRinaWinter&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TziporaRinaWinter&show_icons=true&hide_title=true&count_private=true&theme=radical)
