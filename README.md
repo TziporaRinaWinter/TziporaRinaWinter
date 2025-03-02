@@ -84,15 +84,9 @@ C#: Proficient | Java: Proficient | Python: Proficient | TypeScript: Proficient 
 Docker: Beginner | Git: Proficient | Postman: Proficient | Swagger: Proficient | Visual Studio: Proficient | Jupyter: Proficient | Anaconda: Intermediate | PyCharm: Proficient | IntelliJ IDEA: Intermediate | Eclipse: Intermediate
 </details>
 
-
-
-<!-- ## 🏆 Achievements 
-
-[![GitHub followers](https://img.shields.io/github/followers/TziporaRinaWinter?style=social)](https://github.com/TziporaRinaWinter?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/TziporaRinaWinter?style=social)](https://github.com/TziporaRinaWinter?tab=stars)
-
--->
 ## 🏆 Achievements
+![Your Achievements](https://github-profile-trophy.vercel.app/?username=TziporaRinaWinter&theme=juicyfresh&no-frame=true&margin-w=15&margin-h=15)
+
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TziporaRinaWinter&show_icons=true&hide_title=true&count_private=true&theme=radical)
