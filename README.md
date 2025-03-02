@@ -95,7 +95,12 @@ Docker: Beginner | Git: Proficient | Postman: Proficient | Swagger: Proficient |
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TziporaRinaWinter&layout=compact&theme=radical)
 
 ## ✨ Featured Projects
-- [Angular Project](------)
-- [-----](------)
-- [-----](------)
-- [-----](------)
+###### [AngularProject](https://github.com/TziporaRinaWinter/AngularProject) - An application for managing the placement of volunteers for transportation
+
+###### [API-project](https://github.com/TziporaRinaWinter/API-project) - Pizza Shop Management Web API in ASP.NET Core
+
+###### [library-project](https://github.com/TziporaRinaWinter/library-project) - Library Management System - Java application for managing a library's book and customer database using Hibernate, Servlets, and JAX-RS for efficient database interaction and RESTful API creation.
+
+###### [audio-jumping](https://github.com/TziporaRinaWinter/audio-jumping) - JavaScript project for audio manipulation.
+
+###### [Node.js-project](https://github.com/TziporaRinaWinter/Node.js-project) - A Node.js server-side application for coordinating volunteer assistance requests.
