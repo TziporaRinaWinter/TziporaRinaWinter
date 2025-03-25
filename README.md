@@ -75,8 +75,6 @@ C#: Proficient | Java: Proficient | Python: Proficient | TypeScript: Proficient 
 &nbsp;&nbsp;
 <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" /> <!-- PyCharm -->
 &nbsp;&nbsp;
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/idea/idea-original.svg" /> <!-- IntelliJ IDEA -->
-&nbsp;&nbsp;
 <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" /> <!-- Eclipse -->
 
 <details>
