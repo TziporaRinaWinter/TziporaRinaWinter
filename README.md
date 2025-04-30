@@ -55,7 +55,7 @@ C#: Proficient | Java: Proficient | Python: Proficient | TypeScript: Proficient 
 
 <details>
 <summary>Skill Level</summary>
-.NET Core: Proficient | Angular: Proficient | React: Beginner | Hibernate: Intermediate | MUI: Intermediate | Bootstrap: Beginner
+.NET Core: Proficient | Angular: Proficient | React: Intermediate | Hibernate: Intermediate | MUI: Intermediate | Bootstrap: Intermediate
 </details>
 
 #### 🛠️ Tools & Platforms
@@ -79,7 +79,7 @@ C#: Proficient | Java: Proficient | Python: Proficient | TypeScript: Proficient 
 
 <details>
 <summary>Skill Level</summary>
-Docker: Beginner | Git: Proficient | Postman: Proficient | Swagger: Proficient | Visual Studio: Proficient | Jupyter: Proficient | Anaconda: Intermediate | PyCharm: Proficient | IntelliJ IDEA: Intermediate | Eclipse: Intermediate
+Docker: Beginner | Git: Proficient | Postman: Proficient | Swagger: Proficient | Visual Studio: Proficient | Jupyter: Proficient | Anaconda: Intermediate | PyCharm: Proficient | Eclipse: Intermediate
 </details>
 
 ## 🏆 Achievements
